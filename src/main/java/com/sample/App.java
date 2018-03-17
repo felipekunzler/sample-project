@@ -9,7 +9,7 @@ public class App {
     }
 
     public int sum(int a, int b) {
-        return a + b + 1;
+        return a + b;
     }
 
 }
