@@ -14,6 +14,7 @@ public class AppTest {
         assertEquals(app.sum(0, 0), 0);
         assertEquals(app.sum(-1, -2), -3);
         assertEquals(app.sum(0, -2), -2);
+        assertEquals(app.sum(5, -2), 3);
     }
 
 }
